@@ -622,3 +622,6 @@ nav{
 .firbtn:hover{
     background-color: #0a5996;
 }
+.foolinks a:hover{
+    color: #2294ED;
+}
