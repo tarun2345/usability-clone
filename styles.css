@@ -254,7 +254,7 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('./logos/bgimg.svg');
+    background-image: url('./bgimg.svg');
     background-position: 100% 100%;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -334,7 +334,7 @@ nav{
     color:#5D7A96;
 }
 .bgmi{
-    background-image: url('./newsec/bgim.svg');
+    background-image: url('./bgim.svg');
     background-repeat: no-repeat;
     background-position:0%;
     position: relative;
@@ -392,7 +392,7 @@ nav{
     display: inline-block;
     width: 250px;
     height: 300px;
-    background-image: url('./examples/note.jpg');
+    background-image: url('./note.jpg');
     background-size:cover;
 }
 .a2{
@@ -400,7 +400,7 @@ nav{
     display: inline-block;
     width: 250px;
     height: 300px;
-    background-image: url('./examples/board.jpg');
+    background-image: url('./board.jpg');
     background-size:cover;
 }
 .a3{
@@ -408,7 +408,7 @@ nav{
     display: inline-block;
     width: 250px;
     height: 300px;
-    background-image: url('./examples/map.jpg');
+    background-image: url('./map.jpg');
     background-size:cover;
 }
 .a4{
@@ -416,7 +416,7 @@ nav{
     display: inline-block;
     width: 250px;
     height: 300px;
-    background-image: url('./examples/movie.jpg');
+    background-image: url('./movie.jpg');
     background-size:cover;
 }
 .ex{
@@ -503,7 +503,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./globe/globe.png');
+    background-image: url('./globe.png');
     background-repeat: no-repeat;
     background-size: contain;
     width: 600px;
@@ -517,7 +517,7 @@ nav{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image:url('./globe/bgim.png');
+    background-image:url('./bgimggg.png');
     background-repeat: no-repeat;
     background-size: contain;
     height: 270px;
